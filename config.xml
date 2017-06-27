@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-  <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.mylittlelambs.ps" version="1.2.1">
+  <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.mylittlelambs.ps" version="1.2.2">
   <name>Mylittlelambs APP</name>
   <description>Download the App to experience all new way of shopping that Mylittlelambs offers via the App. It has host of features that allows merchants to offer personalized and specific offers to the users. Some of the features include - login using facebook /Google session on the device. Push notifications to individual/grouped users allowing for targeted and personalized campaigns.</description>
   <author email="development@purplecommerce.com" href="http://purplestores.in">Purple Commerce</author>

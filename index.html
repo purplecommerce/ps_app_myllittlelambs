@@ -79,7 +79,7 @@
                             
                             </div> 
                             <div class="continue-with-current-window-container">
-                            <button class="fb-login-in-app" onClick="connectSocialLogin()">Facebook Login</button> <br /><br /><br /> OR
+                           <!-- <button class="fb-login-in-app" onClick="connectSocialLogin()">Facebook Login</button> <br /><br /><br /> OR-->
                             <form id="login-access-form" method="post" name="login-access-form">
                               <input type="hidden" name="form_type" value="signin" />
                               <input type="email" name="email" id="email" value="" placeholder="Email Address" required><br />
@@ -97,8 +97,8 @@
                               <input type="text" name="lastname" id="lastname_r" value="" placeholder="Last Name" required><br />
                               <input type="tel" name="mobile" id="mobile_r" value="" placeholder="Mobile Number" required maxlength="10"><br />
                               <input type="email" name="email" id="email_r" value="" placeholder="Email Address" required><br />
-                              <input type="password" name="password" placeholder="Password" id="password_r" required=""><br />
-                              <input type="password" name="confirm_password" placeholder="Confirm Password" id="confirm_password_r" required=""><br />
+                              <input type="password" name="password" placeholder="Password" id="password_r" required><br />
+                              <input type="password" name="confirm_password" placeholder="Confirm Password" id="confirm_password_r" required><br />
                               <button id="submit" name="submit" title="forgot-password" class="button proceed-to-rgstr" type="button" onClick="registerByEmail()"><span><span>Submit</span></span></button>
                             </form>
                             <div class="progress-bar-validation" style="display:none;"><img alt="loading your required product" src="img/loading_p.gif"></div>
